@@ -1,6 +1,6 @@
-### Hi there, I'm [Argha][website] Sen  👋
+### Hi there, I'm [Tirthankar][website] Sen  👋
 
-I am presently pursuing Ph.D. in the Department of Computer Science and Engineering at the Indian Institute of Technology Kharagpur, India. I am a member of [UbiNet: Ubiquitous Networked Systems Lab](https://cse.iitkgp.ac.in/resgrp/ubinet/). My research interests include the areas of Millimeter Wave Sensing, FMCW Radars, HCI.
+I am presently pursuing MS(Research) in the GS Sanyal School of Telecommunicatiosn at the Indian Institute of Technology Kharagpur, India. I am a member of [UbiNet: Ubiquitous Networked Systems Lab](https://cse.iitkgp.ac.in/resgrp/ubinet/). My research interests include the areas of Millimeter Wave Sensing, FMCW Radars, HCI, CPS.
 
 ### Connect with me:
 
@@ -27,17 +27,23 @@ I am presently pursuing Ph.D. in the Department of Computer Science and Engineer
 <br />
 <br />
 
-![Argha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=arghasen10&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)
+![Tirthankar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=tirthankarhalder&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)
+
+![Tirthankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tirthankarhalder&show_icons=true&locale=en&theme=transparent&hide_border=true)
+
+[![Tirthankar Streak](https://github-readme-streak-stats.herokuapp.com?user=tirthankarhalder&theme=radical&hide_border=true&mode=weekly&background=DD272700&dates=0684DD&stroke=1FD906)](https://git.io/streak-stats)
+
+<!-- ![Argha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=arghasen10&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)
 
 ![Argha's GitHub stats](https://github-readme-stats.vercel.app/api?username=arghasen10&show_icons=true&locale=en&theme=transparent&hide_border=true)
 
-[![Argha Streak](https://github-readme-streak-stats.herokuapp.com?user=arghasen10&theme=radical&hide_border=true&mode=weekly&background=DD272700&dates=0684DD&stroke=1FD906)](https://git.io/streak-stats)
+[![Argha Streak](https://github-readme-streak-stats.herokuapp.com?user=arghasen10&theme=radical&hide_border=true&mode=weekly&background=DD272700&dates=0684DD&stroke=1FD906)](https://git.io/streak-stats) -->
 
 
-[website]: https://arghasen10.github.io/
-[youtube]: https://www.youtube.com/channel/UCsw6J7cMixultF4BwNk9NPQ
-[instagram]: https://www.instagram.com/arghasen10/
-[linkedin]: https://www.linkedin.com/in/arghasen10/
+[website]: https://tirthankarhalder.github.io/
+<!-- [youtube]: https://www.youtube.com/channel/UCsw6J7cMixultF4BwNk9NPQ -->
+[instagram]: https://www.instagram.com/i_tirthankar/
+[linkedin]: https://www.linkedin.com/in/tirthankar-halder-2620181b2/
 [code]: https://code.visualstudio.com/
 [html]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
 [css]: https://developer.mozilla.org/en-US/docs/Glossary/css
@@ -51,4 +57,4 @@ I am presently pursuing Ph.D. in the Department of Computer Science and Engineer
 [github]: https://github.com/
 [terminal]: https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners#:~:text=To%20open%20the%20terminal%2C%20press,it%2C%20but%20this%20is%20better!
 [latex]: https://www.latex-project.org/
-[twitter]: https://twitter.com/argha_sen10
+[twitter]: https://twitter.com/tirthankarhalder
