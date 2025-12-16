@@ -1,11 +1,11 @@
-### Hi there, I'm [Tirthankar][website] Sen  👋
+### Hi there, I'm [Tirthankar][website] Halder  👋
 
 I am presently pursuing MS(Research) in the GS Sanyal School of Telecommunicatiosn at the Indian Institute of Technology Kharagpur, India. I am a member of [UbiNet: Ubiquitous Networked Systems Lab](https://cse.iitkgp.ac.in/resgrp/ubinet/). My research interests include the areas of Millimeter Wave Sensing, FMCW Radars, HCI, CPS.
 
 ### Connect with me:
 
-[<img align="left" alt="Argha | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Argha | Twitter" width="22px" src="https://img.freepik.com/free-icon/twitter_318-674515.jpg" />][twitter]
+[<img align="left" alt="Tirthankar | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Tirthankar | Twitter" width="22px" src="https://img.freepik.com/free-icon/twitter_318-674515.jpg" />][twitter]
 
 
 <br />
